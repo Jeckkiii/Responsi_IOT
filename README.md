@@ -81,5 +81,3 @@ Berikut adalah contoh *output* kunci yang harus divalidasi oleh penguji:
 **Validasi:** Keberhasilan menampilkan **IP Address** dan **MAC Address** memenuhi kriteria **Terhubung ke Internet**. Pembacaan status Cahaya dan Hujan memenuhi kriteria **Menggunakan Minimal 2 Sensor** dan **Validasi Proyek**.
 
 ---
-
-**Link Dokumentasi (Wajib):** File laporan/dokumentasi deskriptif tentang proyek ini juga tersedia di *repository* ini.
